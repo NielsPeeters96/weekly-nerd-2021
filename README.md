@@ -111,3 +111,6 @@ Tip: Schrijf elke lesblok een artikel en lever dit in, dan hoef je niet alle art
 * https://medium.com/@vincentkempers_/my-experience-at-nlhtml5-x-cssday-df855997a191
 
 
+![image](https://user-images.githubusercontent.com/78353674/121669433-981aa200-caac-11eb-94e6-55381323ee18.png)
+
+
